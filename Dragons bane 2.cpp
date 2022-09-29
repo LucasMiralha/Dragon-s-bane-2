@@ -165,7 +165,8 @@ void jogo()
 	cout << "\t./   |.L_J/   |L_J./   L_JI  I[]/     |[]I  IL_J    |.L_J/   |L_J./   |.L_J  " << endl;
 	cout << "\t|     |L_J|   |L_J|    L_J|  |[]|     |[]|  |L_J     |L_J|   |L_J|     |L_J  " << endl;
 	cout << "\t|_____JL_JL___JL_JL____|-||  |[]|     |[]|  ||-|_____JL_JL___JL_JL_____JL_J  " << endl;
-	cout << "\t                       '-''--'--'-----'--'--''-'                             " << endl;
+	
+
 	sleep(3);
 	system("pause");
 	system("cls");
