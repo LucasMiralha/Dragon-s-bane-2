@@ -57,6 +57,6 @@ JOGO:
     
 O professor não nos impediu de adicionar extras nos projetos.
 Equipe:
-Lucas Miralha
+Lucas Miralha - https://github.com/LucasMiralha
 Thiago França - https://github.com/Thiagottf
 Pedro Belchior - https://github.com/PedrinhoHP15
