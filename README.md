@@ -55,4 +55,8 @@ JOGO:
     Fase 3: Essa fase possui uma dimensão de 75x75 e possui os seguintes elementos: todos da Fase 2 e teletransporte.
     
     
-    O professor não nos impediu de adicionar extras nos projetos.
+O professor não nos impediu de adicionar extras nos projetos.
+Equipe:
+Lucas Miralha
+Thiago França - https://github.com/Thiagottf
+Pedro Belchior - https://github.com/PedrinhoHP15
