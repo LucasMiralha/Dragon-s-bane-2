@@ -137,6 +137,7 @@ int main()
 
 void jogo()
 {
+	int sn;
 	Personagem jogador;
 	
 	system("cls");
@@ -226,6 +227,21 @@ void jogo()
 	cout << "|Assim como Sckhar foi morto, Vosik, o sacerdote dos dragoes, caiu...                              |" << endl;
 	cout << "|Pela suas maos, oh, meu destruidor de desejos...                                                  |" << endl;
 	cout << "+--------------------------------------------------------------------------------------------------+" << endl;
+	
+	cout << "Deseja jogar de novo?" << endl;
+	cout << "1 - Sim\t2 - Nao" << endl;
+	cin >> sn;
+	switch(sn)
+	{
+		case 1:
+			system("cls");
+			main();
+			break;
+		case 2:
+		default:
+			exit(1);
+			break;
+	}
 }
 
 void derrota()
