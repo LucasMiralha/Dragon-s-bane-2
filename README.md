@@ -1,11 +1,11 @@
 # Dragon-s-bane-2
 ## Projeto avaliativo para a disciplina Programação 2. Escrito em C++
 ##### Segue escrito como a atividade foi passada
-OBJETIVO:
-     Desenvolver a habilidade do aluno de resolução de problema, raciocínio lógico algorítmico e competência interpessoal, além de
-     treinar todos o conhecimento adquirido na programação estruturada em C++.
+## OBJETIVO:
+    Desenvolver a habilidade do aluno de resolução de problema, raciocínio lógico algorítmico e competência interpessoal, além de
+    treinar todos o conhecimento adquirido na programação estruturada em C++.
 
-ATIVIDADE:
+## ATIVIDADE:
     O projeto pode ser desenvolvido em equipe de até três alunos e gera três artefatos para serem entregues:
 
     O arquivo principal do código desenvolvido em C++;
@@ -15,10 +15,10 @@ ATIVIDADE:
     O projeto envolve o desenvolvimento de um jogo em C++. O jogo deve utilizar o console para o desenvolvimento gráfico e interação com o usuário.
     O objetivo do jogo é desafiar o jogador a passar de três fases, onde cada um deles terão seu próprio mapa.
 
-JOGO:
-     O jogo é do estilo aventura/puzzle onde o objetivo é o jogador conseguir passar de três fases. Em cada fase o jogador deve se movimentar
-     para pegar uma chave para abrir a porta fechada.
-     O jogador possui os seguintes comando:
+## JOGO:
+    O jogo é do estilo aventura/puzzle onde o objetivo é o jogador conseguir passar de três fases. Em cada fase o jogador deve se movimentar
+    para pegar uma chave para abrir a porta fechada.
+    O jogador possui os seguintes comando:
 
     W: O jogador movimenta uma unidade para cima;
     A: O jogador movimenta uma unidade para esquerda;
@@ -26,7 +26,7 @@ JOGO:
     D: O jogador movimenta uma unidade para direita;
     I: O jogador interage com o objeto que ele estar em cima.
 
-     O jogo possui os seguintes elementos nas fases:
+    O jogo possui os seguintes elementos nas fases:
 
     &: Simbolo que representa o jogador.
     *: Simbolo que representa uma parede, o jogador ao se movimentar não pode passar pela parede.
@@ -53,10 +53,11 @@ JOGO:
     Fase 1: Essa fase possui uma dimensão de 25x25 e possui os seguintes elementos: jogador, parede, chave e porta;
     Fase 2: Essa fase possui uma dimensão de 50x50 e possui os seguintes elementos: todos da Fase 1, botão e espinhos;
     Fase 3: Essa fase possui uma dimensão de 75x75 e possui os seguintes elementos: todos da Fase 2 e teletransporte.
+
+    O professor não nos impediu de adicionar extras nos projetos.    
     
-    
-O professor não nos impediu de adicionar extras nos projetos.
-Equipe:
-Lucas Miralha - https://github.com/LucasMiralha
-Thiago França - https://github.com/Thiagottf
-Pedro Belchior - https://github.com/PedrinhoHP15
+## Equipe:    
+
+    Lucas Miralha - https://github.com/LucasMiralha
+    Thiago França - https://github.com/Thiagottf
+    Pedro Belchior - https://github.com/PedrinhoHP15
